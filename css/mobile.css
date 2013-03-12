@@ -387,7 +387,7 @@ header {
   header div.header-content div.logo {
     padding: 1.618em;
     color: #41a8df;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.8);
     text-align: left; }
     /* line 33, ../_sass/mobile.scss */
     header div.header-content div.logo div#name {
